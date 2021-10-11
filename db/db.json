@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Robert",
+      "email": "bdick@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Little Johnhn",
+      "email": "ljohn@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Winchester Dean",
+      "email": "wdean@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Summers Buffy",
+      "email": "sbuffy@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Lil Robert",
+      "email": "lilnum@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Fella Mario",
+      "email": "fmario@gmail.com"
+    },
+    {
+      "name": "Valle Luigi",
+      "email": "vluigi@gmail.com",
+      "id": 7
+    }
+  ],
+  "comments": []
+}
